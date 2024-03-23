@@ -10,6 +10,7 @@ Di dalam kode tersebut juga terdapat beberapa metode, ada metode setTable yang d
 ![Screenshot (1027)](https://github.com/rerevana/TP2DPBO2024C2/assets/113984261/469fafec-9637-4cb7-9ae7-60fa740d802c)
 ![Screenshot (1028)](https://github.com/rerevana/TP2DPBO2024C2/assets/113984261/e93a91ec-29f5-459d-bc46-2be3e686e2da)
 ![Screenshot (1029)](https://github.com/rerevana/TP2DPBO2024C2/assets/113984261/66d0bab1-b9cd-4a87-accf-9802ae97f6c6)
+![Screenshot (1034)](https://github.com/rerevana/TP2DPBO2024C2/assets/113984261/41dd1882-8a98-485d-b60f-40e65f849dc0)
 ![Screenshot (1035)](https://github.com/rerevana/TP2DPBO2024C2/assets/113984261/5260775b-2188-43b5-b892-af247d546ded)
 
 ##### Show dialog/prompt error jika ada input yang kosong saat insert
